@@ -4,10 +4,9 @@
 Passionate about transforming raw data into actionable insights that drive business decisions. I specialize in data visualization, reporting, and analytics, helping organizations leverage data for strategic growth.
 
 🔹 Tech Stack: SQL | Python | Power BI | Tableau | Excel | ETL | Data Warehousing
-🔹 Currently Learning: [Mention any new BI tools or skills you're exploring]
+🔹 Currently Learning: Enhancing my Tableau skills for better data storytelling.
 🔹 Looking to Collaborate On: Data analytics projects, dashboards, and reporting automation
-🔹 Fun Fact: [Add something personal or interesting about yourself]
-
+🔹 Fun Fact: 🏀 🏈 ⚽  I enjoy analyzing sports stats just as much as I enjoy watching the game!
 📫 Let's connect!
 [![Gmail Badge](https://img.shields.io/badge/-luizmiranda@live.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizmiranda@live.com)](mailto:luizmiranda@live.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/luizmiranda96/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/luizmiranda96//)](https://www.linkedin.com/in/https://www.linkedin.com/in/luizmiranda96//) [![Github Badge](https://img.shields.io/badge/-lueazinho-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lueazinho/)](https://www.github.com/lueazinho/) 
