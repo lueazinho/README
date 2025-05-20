@@ -5,7 +5,7 @@
 
 Passionate about transforming raw data into actionable insights that drive business decisions. I specialize in data visualization, reporting, and analytics, helping organizations leverage data for strategic growth.
 
-🔹 Tech Stack: SQL | Python | Power BI | Tableau | Excel | ETL | Data Warehousing
+🔹 Tech Stack: SQL | Python | Power BI | Tableau | Google Sheets | Python
 
 🔹 Currently Learning: Enhancing my Tableau skills for better data storytelling.
 
